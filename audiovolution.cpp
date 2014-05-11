@@ -1,8 +1,16 @@
 
  //read input audio file
  
- //create a random starting leader dna
+ //initialise variables
  
+  //length of audio file
+  length = inputaudio.length
+ 
+  //maximum number of sounds in each dna
+  int maxsounds = 50;
+ 
+ //create a random starting leader dna
+
   sine, length, pitch, startpoint and volume.
   
  while (actualaccuracy<desiredaccuracy)
